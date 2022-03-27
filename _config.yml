@@ -4,6 +4,7 @@ safe: true
 source: []
 incremental: false
 highlighter: rouge
+url: binarycrown.github.io
 gist:
   noscript: false
 kramdown:
